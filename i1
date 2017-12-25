@@ -1,10 +1,10 @@
 mathematics
 
 addition
-a+b
+a+b int a,b
 subtraction
-a-b
+a-b int a,b
 multiplication
-a*b
+a*b a,b
 division
-a/b
+a/b a,b
