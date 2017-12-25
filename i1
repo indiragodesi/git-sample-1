@@ -1,9 +1,9 @@
 mathematics
 
 addition
-a+b int a,b
+v a+b int a,b
 subtraction
-a-b int a,b
+a a-b int a,b
 multiplication
 a*b a,b
 division
